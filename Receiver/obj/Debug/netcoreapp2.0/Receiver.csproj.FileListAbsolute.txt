@@ -1,0 +1,12 @@
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/bin/Debug/netcoreapp2.0/Receiver.deps.json
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/bin/Debug/netcoreapp2.0/Receiver.runtimeconfig.json
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/bin/Debug/netcoreapp2.0/Receiver.runtimeconfig.dev.json
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/bin/Debug/netcoreapp2.0/Receiver.dll
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/bin/Debug/netcoreapp2.0/Receiver.pdb
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/bin/Debug/netcoreapp2.0/Shared.dll
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/bin/Debug/netcoreapp2.0/Shared.pdb
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/obj/Debug/netcoreapp2.0/Receiver.csproj.CoreCompileInputs.cache
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/obj/Debug/netcoreapp2.0/Receiver.AssemblyInfoInputs.cache
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/obj/Debug/netcoreapp2.0/Receiver.AssemblyInfo.cs
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/obj/Debug/netcoreapp2.0/Receiver.dll
+/home/daniel/Documents/Projetos/NServiceBus/nservicebus-endpoint-docker/Receiver/obj/Debug/netcoreapp2.0/Receiver.pdb
